@@ -1,48 +1,35 @@
-# Meeting Notes
+# Meeting Notes - 09/25/2024
 
-## 09/25/2024
+**To Do:**
+- Set up GitHub, Overleaf, and add slides.
+- Meet with Andres (JMP + project logistics).
+- Literature Review.
 
-### To Do:
-- Create GitHub for the project.
-- Upload meeting notes on GitHub.
-- Set up Overleaf and add slides.
-- Meet with Andres (discuss JMP and project logistics).
-- Work on Literature Review.
+**Key Questions:**
+- GE effect of an environmental externality through TFP probabilities?
+- Explore TFP probabilities and their GE effects.
 
-### Big Questions:
-- What is the GE effect of an environmental externality through TFP probabilities?
-- Investigate TFP probabilities and their relation to GE effects.
+**Action Items:**
+- Read Andres's paper.
+- Brainstorm research ideas.
 
-### Action Items:
-- Both: Read Andres’s paper for insights.
-- Formulate specific ideas for research.
+**Logistics:**
+- Next meeting: Tue, Oct 15 (Macro-Environmental Reading Group).
+- Invite papers and refine project ideas.
 
-### Logistics:
-- Next meeting: Tue, Oct 15.
-- Join Macro-Environmental Reading Group.
-- Invite papers, send a list of relevant papers, and elaborate on ideas.
+**Matias's Work:**
+- Local impacts of natural disasters vs. climate change shocks.
+- Probabilistic externalities (second project).
 
-### Matias’s Work:
-- **Topic 1**: Local impacts of natural disasters (natural vs. climate change shocks: temperature, drought, storms).
-- **Topic 2**: Probabilistic externalities (second project).
+**Shisham’s JMP:**
+- Focus: Endogenizing matching frictions, collaboration with Bushnell and Smith.
+- DMP paper (paused), GSR in winter.
 
-### Shisham’s JMP:
-- Focus on endogenizing matching frictions.
-- Collaboration with Bushnell and Smith.
-- Write up DMP paper (currently on pause).
-- GSR in winter.
+---
 
-## 09/06/2024:
-- Focus on GE and externality ideas.
-- Approach: Develop a clear plan with milestones.
-- Consider including this in QE chapter.
+**Previous Notes - 09/06/2024:**
+- Develop ideas around GE and externalities, including QE chapter.
 
-### Strengths/Weaknesses:
-- **Mati**:
-  - Strengths: DSGE model, moment calibration, math/derivation, MATLAB.
-  - Weaknesses: Stata (wants to learn modeling and idea creation).
-
-- **Shisham**:
-  - Strengths: Modeling, calibration, counterfactuals.
-  - Weaknesses: Stata, micro-level data analysis (wants to enhance literature contributions).
-
+**Strengths/Weaknesses:**
+- **Mati:** Strong in DSGE modeling, MATLAB, math; wants to learn Stata/model creation.
+- **Shisham:** Strong in modeling and calibration; wants to improve micro-level data analysis and literature contributions.
