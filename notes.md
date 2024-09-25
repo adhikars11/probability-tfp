@@ -1,4 +1,6 @@
-# Meeting Notes - 09/25/2024
+# Meeting Notes 
+
+## 09/25/2024
 
 **To Do:**
 - Set up GitHub, Overleaf, and add slides.
@@ -27,7 +29,7 @@
 
 ---
 
-**Previous Notes - 09/06/2024:**
+## 09/06/2024
 - Develop ideas around GE and externalities, including QE chapter.
 
 **Strengths/Weaknesses:**
