@@ -2,14 +2,11 @@
 
 ## 10/26/2024
 
-Discutimos la idea. we talked about andres paper. we have a fisrt apporach. two countries. the externality affects the climate tfp part.
+We discussed the idea. We talked about Andrés’ paper. We have a first approach. Two countries. The externality affects the climate TFP part.
 
-next goals: talk to andres about this
+Next goals: talk to Andrés about this.
 
-Mati: incorporate last meeting https://docs.google.com/document/d/1Tw9zAmwC4EtiMD5HdX8g6I5n63Euk8bFHcqwRX-vix0/edit?tab=t.0
-
-Susi: ask Andres directly on tuesday. why not production. and second, does he want to participate, and in which ways
-
+Mati: incorporate last meeting https://docs.google.com/document/d/1Tw9zAmwC4EtiMD5HdX8g6I5n63Euk8bFHcqwRX-vix0/edit?tab=t.0.
 
 
 ## 09/25/2024
