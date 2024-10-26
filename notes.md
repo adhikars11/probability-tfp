@@ -8,6 +8,8 @@ next goals: talk to andres about this
 
 Mati: incorporate last meeting https://docs.google.com/document/d/1Tw9zAmwC4EtiMD5HdX8g6I5n63Euk8bFHcqwRX-vix0/edit?tab=t.0
 
+Susi: ask Andres directly on tuesday. why not production. and second, does he want to participate, and in which ways
+
 
 
 ## 09/25/2024
