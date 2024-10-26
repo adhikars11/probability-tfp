@@ -1,5 +1,15 @@
 # Meeting Notes 
 
+## 10/26/2024
+
+Discutimos la idea. we talked about andres paper. we have a fisrt apporach. two countries. the externality affects the climate tfp part.
+
+next goals: talk to andres about this
+
+Mati: incorporate last meeting https://docs.google.com/document/d/1Tw9zAmwC4EtiMD5HdX8g6I5n63Euk8bFHcqwRX-vix0/edit?tab=t.0
+
+
+
 ## 09/25/2024
 
 **To Do:**
