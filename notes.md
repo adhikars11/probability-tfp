@@ -1,5 +1,22 @@
 # Meeting Notes 
 
+## 10/29/2024
+
+**To Do:**
+- Do the literature review to identify the paper closest to this of externality via probability idea in climate-macro literature.
+- Look into the idea of constraned subobtimality and its application in macroeconomic literature. 
+“Constrained-Efficient Allocations in the Growth Model with Idiosyncratic Shocks”, with
+Julio Davila, Jay Hong and Per Krusell. Econometrica, Vol. 80, No. 6 (November, 2012),
+pp. 2431-67.
+- How ahs the climate change literature dealth with undertainty with distribution?
+
+**Other comments:**
+- The idea is very interesting, should pursue it.
+- Hold on to writing a model for now and do the literature review instead.
+- When thinking of changing the underlying distribution, rather than the externality affecting just the moments like mean or variance of some known distribution, allow for the distribution to change from a finite variance known distribution to an infinite variance fat-tailed distribution.
+
+---
+
 ## 10/26/2024
 
 We discussed the idea. We talked about Andrés’ paper. We have a first approach. Two countries. The externality affects the climate TFP part.
