@@ -1,6 +1,6 @@
 # Meeting Notes 
 
-## 10/29/2024
+## 10/29/2024 : Con Andrés
 
 **To Do:**
 - Do the literature review to identify the paper closest to this of externality via probability idea in climate-macro literature.
