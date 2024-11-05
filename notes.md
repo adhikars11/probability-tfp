@@ -8,7 +8,7 @@
 “Constrained-Efficient Allocations in the Growth Model with Idiosyncratic Shocks”, with
 Julio Davila, Jay Hong and Per Krusell. Econometrica, Vol. 80, No. 6 (November, 2012),
 pp. 2431-67.
-- How ahs the climate change literature dealth with undertainty with distribution?
+- How has the climate change literature dealt with undertainty with distribution?
 
 **Other comments:**
 - The idea is very interesting, should pursue it.
