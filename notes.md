@@ -1,5 +1,57 @@
 # Meeting Notes 
 
+## 11/05/2024 : Susi and Mati
+
+**To Do: Add papers into Issues/Lit.Review**
+
+1. **Start with the list**  
+   -> Link to the list: [Insert link here]
+
+---
+
+### (i) List of candidates closest to externality via distribution in climate macro literature
+
+- **Giglio, Kelly, Pruitt (2016)** - *Systemic Risks and Shocks to the Real Economy*  
+  Focuses on systemic risks and their effects on the economy, relevant for understanding externalities in climate economics.
+
+- **Barnett et al. (2021)** - *Three Alternative Uncertainty Channels*  
+  Discusses uncertainty in climate models through carbon dynamics, temperature dynamics, and damage functions.
+
+- **Lemoine and Traeger (2016)** - *Regime Shifting in the Climate System*  
+  Examines the potential for climate regime shifts and their implications for economic modeling.
+
+- **Cai and Lontzek (2019)** - *Integrating Uncertainty in DICE-type Models*  
+  Incorporates uncertainty into integrated assessment models (IAMs), especially regarding the impacts of climate change.
+
+- **Bansal, Kiku, and Ochoa (2019)** - *Effect of Climate Risks on Asset Pricing*  
+  Investigates how climate risks affect asset pricing and financial markets.
+
+- **Weitzman (2014)** - *Fat Tails and the Social Cost of Carbon (SCC)*  
+  Analyzes the implications of fat-tailed distributions in climate models and its impact on the SCC.
+
+- **Hassler, Krusell, and Olovsson (2018)** - *IAM with Sensitivity Analysis*  
+  Provides a sensitivity analysis of IAMs to better account for uncertainty in climate-economic models.
+
+- **Jurado, Ludvigson, and Ng (2015)** - *Measuring Uncertainty*  
+  Introduces a framework for measuring uncertainty in economic models, with applications to climate change.
+
+---
+
+### (ii) Constrained Inefficiency  
+- Placeholder for further papers or summaries on the topic of constrained inefficiency in climate macroeconomics.
+
+---
+
+### (iii) Sabine Mauderer (NGFS)  
+- **Mauderer (2024)** - *Climate Macroeconomic Modelling Handbook (NGFS)*  
+  A comprehensive overview of climate macroeconomic modeling techniques and frameworks, published by the Network for Greening the Financial System (NGFS).
+
+
+
+
+
+
+
 ## 10/29/2024 : Con Andrés
 
 **To Do:**
