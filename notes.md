@@ -38,7 +38,9 @@
 ---
 
 ### (ii) Constrained Inefficiency  
-- Placeholder for further papers or summaries on the topic of constrained inefficiency in climate macroeconomics.
+- “Constrained-Efficient Allocations in the Growth Model with Idiosyncratic Shocks”, with
+Julio Davila, Jay Hong and Per Krusell. Econometrica, Vol. 80, No. 6 (November, 2012),
+pp. 2431-67.
 
 ---
 
@@ -57,9 +59,6 @@
 **To Do:**
 - Do the literature review to identify the paper closest to this of externality via probability idea in climate-macro literature.
 - Look into the idea of constraned subobtimality and its application in macroeconomic literature. 
-“Constrained-Efficient Allocations in the Growth Model with Idiosyncratic Shocks”, with
-Julio Davila, Jay Hong and Per Krusell. Econometrica, Vol. 80, No. 6 (November, 2012),
-pp. 2431-67.
 - How has the climate change literature dealt with undertainty with distribution?
 
 **Other comments:**
