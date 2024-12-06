@@ -2,6 +2,18 @@
 
 ## 12/06/2024 : Susi and Mati
 
+**Define research question**
+What is the effect of an externality affecting the probability of different states of nature? Motivation: The more pollution, the higher the probability of a bad state. How is the solution using constrained efficiency?
+
+**This paper**
+New underexplored channel. New approach: constrained efficiency.
+
+**Methodology**
+General equilibrium (GE) model.
+
+**Next steps**
+
+
 ## 11/05/2024 : Susi and Mati
 
 **To Do: Add papers into Issues/Lit.Review**
