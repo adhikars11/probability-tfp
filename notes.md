@@ -13,7 +13,7 @@ General equilibrium (GE) model.
 
 **Next steps**
 
-- Solve the set-up similar to Shisham's but with shock-no shock formulation. 
+- MatiL Solve the set-up similar to Shisham's but with shock-no shock formulation see eq. 29 here [https://acarvajal.weebly.com/uploads/9/9/5/8/99589200/csext_jme.pdf]. 
 
 
 
