@@ -13,8 +13,11 @@ General equilibrium (GE) model.
 
 **Next steps**
 
-- MatiL Solve the set-up similar to Shisham's but with shock-no shock formulation see eq. 29 here [https://acarvajal.weebly.com/uploads/9/9/5/8/99589200/csext_jme.pdf]. 
-
+- Mati: Solve the set-up similar to Shisham's but with shock-no shock formulation see eq. 29 here [https://acarvajal.weebly.com/uploads/9/9/5/8/99589200/csext_jme.pdf].
+- Build up on our respestive models: 
+   - Possibility: Find the optimal choice of e for the type beta agent and see if by forcing these guys to have a different y, you incentivize them into a different e that makes both agents better off.
+  
+- For later: Instead of allocation perturbation, introduce a tax on trade of assets, buyer pays tau but seller gets (q-tau) and revenue is redistributed lump sum. 
 
 
 ## 11/05/2024 : Susi and Mati
