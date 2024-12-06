@@ -13,6 +13,9 @@ General equilibrium (GE) model.
 
 **Next steps**
 
+- Solve the set-up similar to Shisham's but with shock-no shock formulation. 
+
+
 
 ## 11/05/2024 : Susi and Mati
 
