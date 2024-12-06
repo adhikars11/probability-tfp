@@ -1,5 +1,7 @@
 # Meeting Notes 
 
+## 12/06/2024 : Susi and Mati
+
 ## 11/05/2024 : Susi and Mati
 
 **To Do: Add papers into Issues/Lit.Review**
