@@ -8,11 +8,11 @@
 ** 1. Merging price level data by economic activity and type of goods
 *******************************************************************************/
 
-global base "/Users/shishamadhikari/Desktop/Joint-with-mati"
+global base "/Users/shishamadhikari/Desktop/probability-tfp"
 
 clear
 
-import excel "/Users/shishamadhikari/Desktop/Joint-with-mati/data/tfp.xlsx", sheet("Baseline") firstrow
+import excel "/Users/shishamadhikari/Desktop/probability-tfp/Empirics/data/tfp.xlsx", sheet("Baseline") firstrow
 rename FAO country_id
 rename ISO3 iso
 rename Countryterritory country
@@ -32,7 +32,7 @@ duplicates report iso year
 save tfp_clean.dta, replace
 
 // Load the climate shock dataset
-use "/Users/shishamadhikari/Desktop/Joint-with-mati/data/em_dat_month.dta", clear
+use "/Users/shishamadhikari/Desktop/probability-tfp/Empirics/data/em_dat_month.dta", clear
 // Extract year directly from the numeric `date` variable
 gen year = 1960 + floor(date / 12)
 
@@ -76,9 +76,9 @@ gen b = 0
 gen u = 0
 gen d = 0
 
-// Run cumulative regressions and store results
+// Run cumulative regressions with country fixed effects and lagged TFP
 forvalues h = 0/`hmax' {
-    xtreg tfp_lead`h' ext_temp l(0/3).ext_temp l(1/1).tfp_index i.year, fe vce(cluster iso_numeric)
+    xtreg tfp_lead`h' ext_temp l(1/2).tfp_index i.iso_numeric i.year, fe vce(cluster iso_numeric)
     replace b = _b[ext_temp] if _n == `h' + 2
     replace u = _b[ext_temp] + 1.645 * _se[ext_temp] if _n == `h' + 2
     replace d = _b[ext_temp] - 1.645 * _se[ext_temp] if _n == `h' + 2
