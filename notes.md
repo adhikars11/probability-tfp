@@ -1,5 +1,30 @@
 # Meeting Notes 
 
+## 01/13/2025 : Susi and Mati. catch up on
+
+Big Picture of the Project:
+
+Externalities: The main externalities of climate change are studied as affecting the first moment. Emissions will also affect the Total Factor Productivity (TFP) distribution.
+Two main contributions:
+
+Risk Externality: Climate change will impact higher moments (likely referring to higher-order moments such as skewness and kurtosis in the distribution of economic variables).
+Constrained Inefficiency: Climate policy poses significant challenges. It's valid to approach this issue using the concept of "constrained inefficiency" (i.e., inefficiency arising from policy or structural constraints).
+
+To Do:
+There are still choices to be made regarding how to model these externalities.
+Shisham will explore one version of the model.
+Mati will investigate another version.
+We will meet next Monday to see that in detail.
+
+Aspirations for the Model:
+
+The goal is to develop a standard macroeconomic model with the addition of 1 or 2 features related to climate change (such as risk and/or inefficiency).
+Micro data (such as Fried's data) will be used for calibration.
+
+References used today:
+https://www.rba.gov.au/publications/workshops/research/2023/pdf/rba-workshop-2023-airaudo-pappa-seoane.pdf
+
+
 ## 12/06/2024 : Susi and Mati
 
 **Define research question**
