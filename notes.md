@@ -1,5 +1,14 @@
 # Meeting Notes 
 
+## 02/13/2025 : Susi and Mati. catch up on
+
+To do: 
+- Solve for idiosyncratic risk for now, not aggregate so that the prices are deterministic.
+- For beta type, it's a fully deterministic problem and for alpha type, it's two period. 
+- Add y to beta type.
+- FOCs -> use market clearing to get endogeneous prices. 
+
+
 ## 01/13/2025 : Susi and Mati. catch up on
 
 Big Picture of the Project:
