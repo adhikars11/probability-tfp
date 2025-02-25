@@ -1,5 +1,16 @@
 # Meeting Notes 
 
+## 02/24/2025 : Susi and Mati. Macro model plan
+
+To do: 
+- IAM model -> Stochastic Damage function
+- Risk externality -> Endogenize the stochastic damage function via costly action
+- Add endogeneous damage function into a standard simple IAM model
+
+### Ideas/concepts
+- Risk aggregate externality or idiosyncratic aiyagari
+- Simple IAM model
+
 ## 02/13/2025 : Susi and Mati. catch up on
 
 To do: 
