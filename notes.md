@@ -2,7 +2,16 @@
 
 ## 02/24/2025 : Susi and Mati. Macro model plan
 
+To send to Mati: 
+- (Uncertainty in climate macro literature review)[https://docs.google.com/document/d/1-VAmwIg41OCVLjOs1vF8VlqDv27Eq4O2qSPX1-jfqX4/edit?tab=t.0]
+- (Simple IAM structure pg. 3)[https://resources.environment.yale.edu/gillingham/ClimateChangeMacro_annual_reviews.pdf] 
+
 To do: 
+- Read Aiyaggari
+- Read sylized IAM structure
+- Think about a simple macro model that captures our micro theory thusfar
+
+Goal: 
 - IAM model -> Stochastic Damage function
 - Risk externality -> Endogenize the stochastic damage function via costly action
 - Add endogeneous damage function into a standard simple IAM model
