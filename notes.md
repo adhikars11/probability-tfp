@@ -5,6 +5,8 @@
 To send to Mati: 
 - [Uncertainty in climate macro literature review](https://docs.google.com/document/d/1-VAmwIg41OCVLjOs1vF8VlqDv27Eq4O2qSPX1-jfqX4/edit?tab=t.0)
 - [Simple IAM structure pg. 3](https://resources.environment.yale.edu/gillingham/ClimateChangeMacro_annual_reviews.pdf)
+- [Climate Change through the Lens of Macroeconomic Modeling](https://www.nber.org/papers/w32963)
+- [Deep uncertainty quantification:](https://drive.google.com/file/d/13XXl61qambMuapAhHGAKWw8qASPOUgB8/view)
 
 To do: 
 - Read Aiyaggari
